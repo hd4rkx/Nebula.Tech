@@ -151,8 +151,7 @@ local nebula = {
     delta = nil, 
     radians = 0, 
 
-    directory = "nebula_tech",
-    path = game:GetObjects("rbxassetid://0")[1], 
+    directory = "nebula_tech", 
 }
 
 if not LPH_OBFUSCATED then
